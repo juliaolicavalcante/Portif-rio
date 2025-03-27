@@ -15,7 +15,7 @@ header {
     background-color: #a81b5d;
     color: #fff;
     display: grid;
-    grid-template-columns: 15% 85%;
+    grid-template-columns: 15% 55% 30%;
     height: 70px;
 }
 
@@ -147,4 +147,8 @@ nav a:hover::after {
     color: #ffffff;
     font-size: 40px;
     font-family: "Just Me Again Down Here", cursive;
+}
+
+.categorias{
+    display: flex;
 }
