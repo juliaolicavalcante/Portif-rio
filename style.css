@@ -12,12 +12,11 @@ body {
 }
 
 header {
-    background-color: #184144;
+    background-color: #a81b5d;
     color: #fff;
     display: grid;
     grid-template-columns: 15% 85%;
     height: 70px;
-    font-family: "Just Me Again Down Here", cursive;
 }
 
 .menu .menu-botao {
@@ -86,7 +85,7 @@ header {
     width: 300px;
     padding: 0;
     padding-top: 100px;
-    background-color: #3a787c;
+    background-color: #a81b5d;
     margin-left: -300px;
     padding-bottom: 20px;
     transition: all ease 0.2s;
@@ -103,7 +102,7 @@ header {
 
 .menu ul li a {
     text-decoration: none;
-    color: #000000;
+    color: #fff;
     font-size: 22px;
     transition: all ease .3s;
 }
@@ -147,4 +146,5 @@ nav a:hover::after {
 .texto-logo {
     color: #ffffff;
     font-size: 40px;
+    font-family: "Just Me Again Down Here", cursive;
 }
