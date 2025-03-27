@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Radley:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Just+Me+Again+Down+Here&family=Radley:ital@0;1&display=swap');
 
 * {
     margin: 0;
@@ -17,6 +18,7 @@ header {
     grid-template-columns: 15% 85%;
     height: 70px;
     font-size:27px ;
+    font-family: "Just Me Again Down Here", cursive;
 }
 
 .menu .menu-botao {
