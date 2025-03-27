@@ -60,7 +60,7 @@ header {
 }
 
 .menu .menu-botao:checked~.menu-linha span {
-    background-color: #253c3d;
+    background-color: #ffffff;
 }
 
 .menu .menu-botao:checked~.menu-linha span:nth-child(1) {
