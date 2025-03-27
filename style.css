@@ -150,5 +150,6 @@ nav a:hover::after {
 }
 
 .categorias{
-    display: flex;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
 }
