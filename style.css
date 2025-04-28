@@ -153,3 +153,9 @@ nav a:hover::after {
     display: grid;
     grid-template-columns: 33% 33% 33%;
 }
+
+.card{
+    background-color: #ce9fb5;
+    padding: 20px;
+    margin: 20px;
+}
