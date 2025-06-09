@@ -162,3 +162,12 @@ nav a:hover::after {
     margin: 20px;
 
 }
+
+.caixa-bem-vindo{
+    background-color: #ce9fb5;
+    color: #D2D2D2;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
