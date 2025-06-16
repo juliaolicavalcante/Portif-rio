@@ -5,6 +5,9 @@
     margin: 0;
     text-decoration: none;
 }
+main{
+    height: 100vh;
+}
 
 body {
     background-color: #D2D2D2;
@@ -205,6 +208,7 @@ footer {
     color: white;
     font-size: 28px;
     margin: 0 30px;
+    bottom: 0;
 }
 
 
