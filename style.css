@@ -189,3 +189,26 @@ nav a:hover::after {
     font-size: 16px;
     color: #a6a6a6;
 }
+
+footer {
+    background-color: #8d194f;
+    color: #FFFF;
+    padding: 20px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.footer-link {
+    text-decoration: none;
+    color: white;
+    font-size: 28px;
+    margin: 0 30px;
+}
+
+
+.criadora {
+    font-size: 20px;
+    padding: 20px;
+}
